@@ -1,1 +1,1 @@
-# Customer-Product-Interaction-Analysis-Sales-Growth-Visualization
+# Conducted a comprehensive data analysis project using Python and SQL, leveraging multi-table joins to explore relationships between customers and products across various dimensions such as location, time period, and cost. Developed and visualized key metrics like sales growth, revenue trends, and order distributions over time using a variety of charts. This project provided actionable insights into customer behavior and sales performance, supporting data-driven decision-making.
